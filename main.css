@@ -1,0 +1,30 @@
+* {
+  box-sizing: border-box;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  margin: 0.625rem;
+}
+
+.header__button {
+  padding: 0.31rem 0.625rem;
+}
+
+.menu {
+  background-color: lightsteelblue;
+  width: 12.5rem;
+  height: 6.25rem;
+}
+
+.menu__item {
+  padding: 0.5rem;
+}
+
+.close {
+  display: none;
+}
